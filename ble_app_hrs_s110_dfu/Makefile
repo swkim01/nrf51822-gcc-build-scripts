@@ -336,7 +336,7 @@ $(GDB_COMMAND_SCRIPT): debug
 #JLink Flasher Scripts
 else
 $(OUTPUT_BINARY_DIRECTORY)/erase_all.jlink : $(BUILD_DIRECTORIES)
-	echo "
+	echo " \n\
 r \n\
 h \n\
 w4 0x4001e504,2 # enable erase all \n\
