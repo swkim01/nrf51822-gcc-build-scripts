@@ -1,7 +1,7 @@
 # nrf51822-gcc-build-scripts
 nrf51822 firmware build script using cross arm gcc
 
-Our recipe is almost same with nordic semi's tutorial([Development with GCC and Eclipse](https://devzone.nordicsemi.com/tutorials/7/]) except OpenOCD support
+Our recipe is almost same with nordic semi's tutorial([Development with GCC and Eclipse](https://devzone.nordicsemi.com/tutorials/7/)) except OpenOCD support
 
 0. install GCC ARM Embedded toolchain:
 
